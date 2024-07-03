@@ -1,0 +1,94 @@
+Advanced Topics in Computer Science, Honors
+Instructional Policy, fall semester, 2022
+
+Instructor
+Kevin Morris
+Textbooks
+none
+Course Description
+This semester-long course builds upon the programming and problem solving foundation students developed in AP Computer Science.? Taught in C++, this course mirrors the curriculum of the second rigorous programming course in a typical college sequence.? Students will get extensive experience with dynamic memory and pointers, and will study data structures like linked lists, binary trees, and hash tables.? The course covers formal analysis of algorithms (big-O notation) and involves several large scale programming projects.?
+Major Content Areas
+
+
+Transition to C++
+Pointers and dynamic memory
+Linked lists
+Abstract Data Types (ADTs)
+Stacks, Queues
+Vectors, Sets, Maps
+Recursion
+Binary Trees
+Analyzing algorithms, Big-O notation
+Hash tables
+Heaps, priority queues
+Tries
+Graphs and graph algorithms
+Huffman encoding
+
+
+
+Objectives of the Course
+To develop a knowledge and understanding of pointers and dynamic memory.
+To learn to solve problems using recursion and recursive data structures.
+To gain an understanding and an appreciation of common ADTs (abstract data types) and to be able to make a choice of which one would be most useful and appropriate.
+To be able to implement common ADTs using various data structures.
+To develop vocabulary and skills to analyze the efficiency of algorithms related to data structures.
+
+
+
+Teaching Approach
+Similar to AP Computer Science, what we do in class will vary from day to day.  Most days, however, will fall into one of three categories:
+0.  A lecture based on the new concepts and syntax from the current unit of study.  Students will not?use the computers during this time.
+1.  A collaborative programming exercise in which the whole class works on a programming problem.
+2.  Individual, free time to work on the current programming assignment.
+Homework Policy, Long-term Assignments
+There are three primary types of homework assignments in this class.
+* Ten Pointers? ? This is a relatively easy program assignment that can be reasonably completed in one evening, and will usually be due the next class meeting.
+* ?Twenty Pointers? ? This is a slightly more involved programming assignment.  Twenty pointers are roughly twice as much as ten pointers, and will be due two days after they are assigned.
+* ?Forty Pointers? ? This is a more difficult, involved programming assignment that cannot reasonably be done in one evening.  Typically a ?forty pointer? will be due one week after it is assigned.
+
+For the purposes of the major assignment calendar, ?forty pointers? are considered ?major assignments? and all other assignments are considered ?minor assignments?.
+Class Materials and Electronic Devices
+Students should come to class every day with a laptop with CLion installed on it.  Any recent computer running MacOS or Windows will work fine.  If you don?t have a laptop (either temporarily or permanently), please let me know, and I can easily provide you one.  
+While a laptop is by far the most important thing to bring to class, students should also come to class with (a) a place to store a small number of paper handouts (this need not be a separate binder or folder; many students just use a small section in another course?s binder) and (b) some place to take notes, which could be a spiral notebook, binder paper, or even a Google Doc or other electronic solution.
+Students are expected to be on task in class.  This class presents a challenge in a world filled with digital distractions, since students are using a computer the majority of the time.  We?ll discuss strategies and policies, but students should be using CLion only, and should avoid email, messages, and other things unrelated to the course.  In practice, students quickly find that need to tune those all out, or they will risk falling behind in this fast-paced course.
+
+
+Tests and assessments
+Each unit will culminate with a unit assessment.  These assessments will be done in class with the use of a computer.  Typically, the student will be given three small programming tasks, to be completed by herself or himself using CLion.  These assessments are, essentially, open note, as students may want to refer to previous examples or projects.  Most of the time, students will complete the assessment in one class period.  At times, we may complete the assessment over multiple days (for example, we could take the last twenty minutes of class for three consecutive days and complete one question a day).  Tests may be retaken, with the exception of the final test, since there isn?t enough time.
+Grading Policy
+Assignments = 40%
+This includes all programming assignments, including ten-pointers, twenty-pointers, and forty-pointers.
+Final project = 15%
+This final project will be a programming project incorporating many of the ideas from the course.
+Unit assessments = 40%
+There are five unit tests, which are each worth 8% of your overall grade.
+Subjective = 5%
+Given the unusual state of the world, I recognize that not everything will go smoothly.  So, I reserve the right to treat each student as an individual.  Some factors in this category might involve an extended illness, significant improvement, or one difficult unit.  In practice, this grading category can only help the student.  It might, for example, mathematically justify rounding up for one student and not for another.
+Contact Information
+Kevin Morris, kmorris@shschools.org, 650-787-5376
+Office Hours and Student Help Sessions
+I am generally available for extra help during all scheduled office hours and can be found in Campbell 156 at that time for drop-in help. On the occasion I needs to cancel an Office Hour, I will post an update to Schoology to let you know. You can also schedule time with me if needed and as my time allows; good times to do so include Gator Blocks, lunch periods, or after school.  My free periods in the first semester are A, C, F, and G.  I?m also often available to meet over Zoom in the evenings.
+
+
+Policy on Accommodations for Students with Verified Disabilities
+If you have been verified as eligible for an accommodation plan by the Director of the Academic Support Center, you need to meet your instructor outside of class time to discuss how the accommodation(s) will be put into place in this class. Students with an extended time accommodations must:
+Confirm/set a testing date and time with the teacher via the Testing Email. The Testing Email program is run by the ASC. It sends out an email to remind students when a Major Assessment is coming up in a few days and suggests possible times to take the assessment in order to take advantage of extended time.
+Take the assessment at the agreed date and time.
+Assessments completed outside of the agreed upon time or not time-stamped will not be accepted.
+Academic Dishonesty
+Being a member of the Sacred Heart Community requires each of us to act with the highest levels of integrity and honesty possible.  Therefore, any form of academic dishonesty will be treated as a very serious matter.  See the Student/Parent Handbook for more details. Some examples of academic dishonesty in the computer science classroom include:
+Copying part or all of another student's homework or project.
+Allowing a student to copy part or all of one's own homework or project.
+Copying code that is publicly available on the Internet without acknowledgment.
+Asking for information about an exam  that you will be taking yourself from a student who has already taken the exam, or communicating with another student in your section in the midst of taking the assessment.
+Sharing information about an exam you have already taken with a student who has not yet taken the exam.
+Outside Tutoring
+While the math/CS department understands that there are times when it is both appropriate and beneficial for a student to be tutored, any work submitted for credit such as homework, test corrections, etc. should be the student?s own original work.  If you get help from someone else, use correction ink to let you and your teacher know that you are shaky on the concept. We encourage communication between the tutor and the classroom teacher.  A student who is being tutored shouldn?t forget that very often his or her best possible resource is the classroom teacher!
+Attendance (Absences and Make-Up Work)
+When you are absent, it is your responsibility to find out what you missed via Schoology, as well as take the following steps given your situation:
+Foreseen absences: Let your instructor know by email about 3-4 days before your absence (or as soon as you know about it). Submit homework electronically on time. Some class activities can be done at home by yourself; talk to your instructor to find out exactly what you?ll miss and what you need to do to make up the classwork. Depending on the length and circumstances around your absence, your instructor will give you a timeline for turning in missing work and making up missed assessments.??
+Unforeseen Absences: When an absence is unforeseen, email your instructor as soon as you can to get an update on classwork and options for catching up on missed instruction. If you are well enough, complete and submit assignments as listed on Schoology to stay current; the spiral nature of CPM homework means you will be able to do the majority of your homework. If you missed an assessment, you should plan to attend the next Office Hour to make it up, unless you have other assessments or remain unable to attend school.? Your instructor will work with you to come up with a makeup timeline.
+Partial Class Absence: If you arrive late to class, stay after class to check in about how to make up classwork. If you know you have to leave early, you should let your instructor know before class starts. You may be asked to finish an activity on your own and submit it. If you miss an assessment due to a late arrival, you should take the assessment at the next scheduled office hour.
+
+
